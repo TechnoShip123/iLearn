@@ -1,6 +1,6 @@
 package iLearn;
 
-public class Hello {
+public class Test {
 
     public static void main(String[] args) {
         // I want to print something
